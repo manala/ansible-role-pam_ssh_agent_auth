@@ -1,0 +1,5 @@
+---
+
+package:
+  libpam-ssh-agent-auth:
+    installed: true
